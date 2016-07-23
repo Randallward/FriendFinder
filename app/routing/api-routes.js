@@ -3,7 +3,7 @@ var friendList = require('../data/friends.js');
 var path = require('path');
 
 //------------
-//ROUTES
+	//ROUTES
 //-------------
 
 module.exports = function(app){
